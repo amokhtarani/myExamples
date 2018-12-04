@@ -23,4 +23,4 @@
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
+/.nb-gradle/src/main/resources/adapter.properties
